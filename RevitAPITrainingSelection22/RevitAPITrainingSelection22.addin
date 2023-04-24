@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPITrainingSelection22.dll"</Assembly>
+		<AddInId>9F719AE8-B379-44D8-91E4-7EF945EF62B3</AddInId>
+		<FullClassName>RevitAPITrainingSelection22.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор труб в активном виде</Text>
+	</AddIn>
+</RevitAddIns>
